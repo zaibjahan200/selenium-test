@@ -1,5 +1,3 @@
-package com.devops.lab;
-
 import java.time.Duration;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
